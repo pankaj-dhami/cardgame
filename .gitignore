@@ -10,3 +10,7 @@
 /CardGame.Service/obj
 /CardGameFrontend.zip
 /CardGameFrontend/node_modules
+/CardGame.API/bin/Release/net5.0
+/CardGame.API/Properties/PublishProfiles
+/CardGame.API/Properties/ServiceDependencies/cardgame001api - Web Deploy
+/CardGame.Service/bin/Release/net5.0
