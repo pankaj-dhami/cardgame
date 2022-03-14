@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CardGame.API/bin/Debug/net5.0
+/CardGame.API/obj
+/CardGame.API/CardGame.API.csproj.user
+/CardGame.Service/bin/Debug/net5.0
+/CardGame.Service/obj
+/CardGameFrontend.zip
+/CardGameFrontend/node_modules
