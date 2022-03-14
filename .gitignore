@@ -14,3 +14,5 @@
 /CardGame.API/Properties/PublishProfiles
 /CardGame.API/Properties/ServiceDependencies/cardgame001api - Web Deploy
 /CardGame.Service/bin/Release/net5.0
+/CardGame.API/bin/Debug/netcoreapp3.1
+/CardGame.Service/bin/Debug/netcoreapp3.1
